@@ -907,7 +907,7 @@ support for no js
 .black-small{
 	position:absolute;
 	width:100%;
-	left:0;
+	left:45%;
 	top:50%;
 	margin-top:-40px;
 	color:#212121;
@@ -919,10 +919,11 @@ support for no js
 	line-height:22px;
 	text-align:center;
 }
+
 .color-small{
 	position:absolute;
 	width:100%;
-	left:0;
+	left:43%;
 	top:50%;
 	margin-top:50px;
     font-family: 'Playball', cursive;
@@ -9007,7 +9008,7 @@ Main components
   }
   .cd-primary-nav > li {
     float: left;
-    margin-left: 3em;
+    margin-left: 2em;
   }
   .cd-primary-nav > li > a {
     /* main navigation buttons style */

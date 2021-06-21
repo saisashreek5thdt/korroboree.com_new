@@ -1,0 +1,48 @@
+.know_more{
+  cursor: pointer !important;
+}
+.news-letter {
+    position: relative;
+}
+.wpcf7-form-control-wrap {
+    position: relative;
+}
+.news-letter input {
+    background: #333537;
+    width: 80%;
+    padding: 10px 13px 10px 13px;
+    border: 0px;
+    color: #fff;
+    float: left;
+    font-size: 14px;
+    border-top-left-radius: 5px!important;
+    border-bottom-left-radius: 5px!important;
+}
+.own_btn .cd-read-more {
+    padding: 7px 22px;
+    color: #fff;
+    border-radius: 3px;
+    text-transform: uppercase;
+    -webkit-transition: color .3s, background .3s;
+    -moz-transition: color .3s, background .3s;
+    transition: color .3s, background .3s;
+    font-family: 'lato';
+    font-size: 12px;
+}
+.own_btn .cd-read-more {
+    border: 2px solid #00AFEF;
+}
+
+a {
+    text-decoration: none;
+}
+.own_btn .cd-read-more:hover {
+    background-color: #00AFEF;
+}
+.button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover{
+    color: white;
+}
+
+.container .thrd.columns{
+    width: 373px;
+}
